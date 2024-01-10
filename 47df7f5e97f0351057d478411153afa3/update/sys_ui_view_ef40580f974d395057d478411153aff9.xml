@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>personal_goal_tracker</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>keith.lyon</sys_created_by>
+        <sys_created_on>2023-09-07 10:12:20</sys_created_on>
+        <sys_id>ef40580f974d395057d478411153aff9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Personal Goal Tracker</sys_name>
+        <sys_package display_value="Personal Goal Tracker" source="x_963154_personal">47df7f5e97f0351057d478411153afa3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Personal Goal Tracker">47df7f5e97f0351057d478411153afa3</sys_scope>
+        <sys_update_name>sys_ui_view_ef40580f974d395057d478411153aff9</sys_update_name>
+        <sys_updated_by>keith.lyon</sys_updated_by>
+        <sys_updated_on>2023-09-07 10:12:20</sys_updated_on>
+        <title>Personal Goal Tracker</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
