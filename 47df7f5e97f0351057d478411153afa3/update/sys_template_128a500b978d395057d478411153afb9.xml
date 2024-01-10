@@ -28,7 +28,7 @@
         <sys_updated_on>2023-09-07 10:58:18</sys_updated_on>
         <table>x_963154_personal_my_todo_list</table>
         <template>short_description=Exercise 1 hour^state=15^company=502358669774351057d478411153af04^EQ</template>
-        <user display_value="Keith Lyon">550cbb1a97f0351057d478411153af4f</user>
+        <user display_value="">550cbb1a97f0351057d478411153af4f</user>
         <view/>
     </sys_template>
 </record_update>

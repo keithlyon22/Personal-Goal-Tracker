@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="Task table schema" source="com.glide.task">187cb819b9103110d0adbb64e3a1e90d</dependency>
+        <dependency display_value="Task table schema" source="com.glide.task">8f8574397d31311076daf29f52070d14</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-24 09:31:38</sys_created_on>
-        <sys_id>fab08cae97f0351057d478411153af4d</sys_id>
+        <sys_id>2e6c0257472775107417eb02d16d433e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_package display_value="Personal Goal Tracker" source="x_963154_personal">47df7f5e97f0351057d478411153afa3</sys_package>
         <sys_updated_by>admin</sys_updated_by>

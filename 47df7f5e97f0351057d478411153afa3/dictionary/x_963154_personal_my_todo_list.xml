@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f2b04cae97f0351057d478411153aff1" extends="task" label="My Todo List" max_length="40" name="x_963154_personal_my_todo_list" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Project" max_length="32" name="project" reference="x_963154_personal_personal_projects" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Target Date" max_length="40" name="target_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Estimated Hours" max_length="15" name="u_estimated_hours" type="decimal"/>
+    </element>
+</database>

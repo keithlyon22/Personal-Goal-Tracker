@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="u_estimated_hours" table="x_963154_personal_my_todo_list">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>keith.lyon</sys_created_by>
         <sys_created_on>2023-09-09 12:07:41</sys_created_on>
-        <sys_id>74ed3eef9701311057d478411153af30</sys_id>
         <sys_name>Estimated Hours</sys_name>
         <sys_package display_value="Personal Goal Tracker" source="x_963154_personal">47df7f5e97f0351057d478411153afa3</sys_package>
         <sys_policy/>

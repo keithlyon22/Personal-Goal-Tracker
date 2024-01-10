@@ -5,11 +5,9 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on x_963154_personal_personal_projects</description>
-        <local_or_existing>Local</local_or_existing>
         <name>x_963154_personal_personal_projects</name>
         <operation display_value="delete">delete</operation>
         <script/>
-        <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>keith.lyon</sys_created_by>
         <sys_created_on>2023-09-07 11:03:15</sys_created_on>
